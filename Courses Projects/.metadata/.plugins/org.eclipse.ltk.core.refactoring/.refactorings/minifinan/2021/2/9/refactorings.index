@@ -1,0 +1,26 @@
+1613865684566	Rename type 'FinanceMember'
+1613866153052	Rename type 'FinanceGroupRepository'
+1613866579894	Delete element
+1613866588455	Delete elements
+1613866594146	Delete element
+1613866600101	Delete element
+1613866634880	Delete element
+1613866669406	Delete element
+1613866694846	Delete element
+1613866699215	Delete element
+1613866713290	Delete element
+1613866725468	Delete element
+1613866754179	Delete element
+1613866769840	Delete element
+1613867411237	Rename type 'FinaceGroupService'
+1613887581560	Rename type 'FinanceServiceGroup'
+1613888115064	Rename type 'FinanceServiceGroupJpaRepository'
+1613958303802	Encapsulate field 'groupsAll'
+1614059815961	Rename type 'collectionResponse'
+1614134238665	Encapsulate field 'firstName'
+1614134244325	Encapsulate field 'lastName'
+1614134480098	Rename type 'FianaceUsersByGroup'
+1614220312540	Encapsulate field 'aadharNumber'
+1614220567248	Encapsulate field 'dowo'
+1614223513392	Encapsulate field 'phoneNumber'
+1614273872235	Encapsulate field 'result'

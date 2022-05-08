@@ -1,0 +1,8 @@
+target/
+target/*.*
+target/MOBILE-APP-WS/WEB-INF/classes/*.class
+target/MOBILE-APP-WS/WEB-INF/classes/com/kargopolov/app/api/*.class
+**/classes/com/appsdeveloperblog/app/ws/*.*
+**/target/classes
+target/classes
+target/test-classes

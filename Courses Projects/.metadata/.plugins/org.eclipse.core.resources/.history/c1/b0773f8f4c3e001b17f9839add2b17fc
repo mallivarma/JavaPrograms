@@ -1,0 +1,17 @@
+package com.pailee.practice;
+
+interface Hello {
+	int ab = 10;
+	void methodA();
+}
+public class Demo implements  Hello{
+	  ab=20;
+	public static void main(String[] args) {
+		}
+
+	@Override
+	public void methodA() {
+		// TODO Auto-generated method stub
+		
+	}
+}

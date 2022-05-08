@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Volumes/Personal/Courses Projects/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2500697615.index
+1045849695.index
+3504882585.index
+3772644899.index
+2809866826.index
+2482883316.index
+2312846085.index

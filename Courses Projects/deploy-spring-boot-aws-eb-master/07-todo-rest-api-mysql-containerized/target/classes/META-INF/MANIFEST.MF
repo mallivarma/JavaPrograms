@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: saanvipailee
+Build-Jdk: 11.0.13
+Implementation-Title: 07-todo-rest-api-mysql-containerized
+Implementation-Version: 1.0.0.RELEASE
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/todo-rest-api-mysql
+Created-By: Maven Integration for Eclipse
+

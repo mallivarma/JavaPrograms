@@ -1,0 +1,27 @@
+1613277321301	Rename type 'GroupController'
+1613279055662	Extract method 'validateDate'
+1613342923241	Delete element
+1613342930713	Delete element
+1613342936636	Delete element
+1613342940921	Delete element
+1613342944996	Delete element
+1613342948944	Delete element
+1613347776814	Encapsulate field 'result'
+1613391424394	Encapsulate field 'startDate'
+1613391430618	Encapsulate field 'endDate'
+1613443374807	Encapsulate field 'userGroupFlag'
+1613443567725	Rename type 'UsersRequest'
+1613443578706	Rename type 'UsersResponse'
+1613443604128	Rename type 'UsersController'
+1613445431914	Encapsulate field 'groupName'
+1613445438534	Encapsulate field 'duration'
+1613445442875	Encapsulate field 'loanAmt'
+1613445447487	Encapsulate field 'rateInt'
+1613445718315	Delete element
+1613445728172	Delete element
+1613445732946	Delete element
+1613513133456	Encapsulate field 'groups'
+1613513159341	Encapsulate field 'userGroups'
+1613514044545	Encapsulate field 'groupName'
+1613861679489	Rename type 'Users'
+1613862032432	Rename type 'GroupRequest'

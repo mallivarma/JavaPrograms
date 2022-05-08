@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: saanvipailee
+Build-Jdk: 11.0.13
+Implementation-Title: 03-spring-boot-web-application-h2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.springboot.web
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/03-spring-boot-web-application-h2
+Created-By: Maven Integration for Eclipse
+

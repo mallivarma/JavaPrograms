@@ -1,0 +1,15 @@
+package com.pailee.practice;
+
+interface A {
+	int ab =10;
+}
+public class Demo implements A{
+
+	int a = 20;
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

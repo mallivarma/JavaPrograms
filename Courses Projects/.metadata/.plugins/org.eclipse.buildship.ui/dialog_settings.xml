@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="/Volumes/Personal/Courses Projects/SampleGradle"/>
+		<item key="use_default_location" value="true"/>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="/Volumes/Personal/devskiller-code-HX62-3Q4X-2H-S4F"/>
+	</section>
+</section>
